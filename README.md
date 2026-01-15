@@ -1,18 +1,10 @@
-# DialogAI — Бизнес-платформа AI-чатботов
+# DialogAI
 
-![Preview](https://cdn.poehali.dev/templates/ai-chat-business-ru/preview.jpg)
+![Preview](https://cdn.poehali.dev/templates/ai-chat-business-ru/cover.jpg)
 
-Лендинг для платформы создания и монетизации AI-ассистентов. Чистый дизайн, пастельные градиенты, акцент на бизнес-результаты.
+Лендинг для платформы создания и монетизации AI-чатботов. Светлая тема с мягкими пастельными градиентами, фокус на бизнес-результаты и простоту использования. Подходит для B2B-сервисов, no-code платформ и инструментов автоматизации.
 
-## Quick Start
-
-```bash
-npm install
-npm run dev
 ```
-
-## Tech Stack
-
-- React 18 + Vite
-- Tailwind CSS
-- shadcn/ui
+"category": "saas"
+"tags": ["light", "gradient", "ai", "pricing"]
+```
